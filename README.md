@@ -1,5 +1,6 @@
 # FlowRouter [![Build Status](https://travis-ci.org/kadirahq/flow-router.svg?branch=master)](https://travis-ci.org/kadirahq/flow-router) [![Stories in Ready](https://badge.waffle.io/kadirahq/flow-router.svg?label=doing&title=Activities)](http://waffle.io/kadirahq/flow-router)
 
+Forked for bug fixes
 
 Carefully Designed Client Side Router for Meteor.
 
