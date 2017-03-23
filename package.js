@@ -1,6 +1,6 @@
 Package.describe({
-  name: 'serubin:flow-router',
-  summary: 'Carefully Designed Client Side Router for Meteor',
+  name: 'kadira:flow-router',
+  summary: 'Carefully Designed Client Side Router for Meteor, fixed by Serubin',
   version: '2.12.1',
   git: 'https://github.com/serubin/flow-router.git'
 });
